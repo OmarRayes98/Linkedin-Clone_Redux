@@ -8,4 +8,5 @@ Tools :
 Description :
 -Responsive design.
 -Sign in page : you can log in by google account .
+-keeping account as long as you didn't log out .
 -you can add post with image or video by clicking select new post .
